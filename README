@@ -1,1 +1,15 @@
-This is a sample code for RAQ.
+This is a sample code to be used as a reference for RAQ.
+
+1) This code is compatible with Java 7
+2) Requires json-simple-1.1.1.jar
+3) requires the following directory structure
+  |
+  |-data
+  |-src
+     |-results
+     
+  data    : contains the data file
+  results : the results of the experiments are stored here
+  
+4) Use DBLP.java as a template to process your own data files
+
